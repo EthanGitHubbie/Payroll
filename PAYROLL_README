@@ -1,4 +1,4 @@
-BankManager
+Ethan_UrbanFurn
 
 A Java-based application designed to be used take in the hours of a user and use their allocated shifts to calculate their weekly net pay and display the results.
 
@@ -23,7 +23,7 @@ Steps
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ETHAN.V/ethan_urbanfurn.git
+    git clone https://github.com/ETHAN.V/Ethan_UrbanFurn.git
     ```
 
 2. Open NetBeans IDE:
@@ -44,7 +44,7 @@ Provide instructions on how to use the application.
 
 ```sh
 Example usage command
-java -jar ethan_urbanfurn.jar
+java -jar Ethan_UrbanFurn.jar
 ```
 
 Explain any command-line arguments, configuration files, or environment variables needed.
@@ -83,4 +83,4 @@ Contact
 
 ETHAN.V - [ethan.v@curro.co.za](mailto:ethan.v@curro.co.za)
 
-Project Link: [https://github.com/ETHAN.V/ethan_urbanfurn](https://github.com/ETHAN.V/ethan_urbanfurn)
+Project Link: [https://github.com/ETHAN.V/Ethan_UrbanFurn](https://github.com/ETHAN.V/Ethan_UrbanFurn)

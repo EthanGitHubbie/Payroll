@@ -1,0 +1,86 @@
+BankManager
+
+A Java-based application designed to be used take in the hours of a user and use their allocated shifts to calculate their weekly net pay and display the results.
+
+Table of Contents
+
+- [Installation]
+- [Usage]
+- [Features]
+- [Project Structure]
+- [Contributing]
+- [License]
+- [Contact]
+
+Installation
+
+Prerequisites
+
+- NetBeans IDE
+- Java Development Kit (JDK)
+
+Steps
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/ETHAN.V/ethan_urbanfurn.git
+    ```
+
+2. Open NetBeans IDE:
+    - Go to `File` > `Open Project`
+    - Navigate to the cloned repository and open it
+
+3. Build the project:
+    - Right-click on the project in the `Projects` tab
+    - Select `Clean and Build`
+
+4. Run the project:
+    - Right-click on the project in the `Projects` tab
+    - Select `Run`
+
+Usage
+
+Provide instructions on how to use the application.
+
+```sh
+Example usage command
+java -jar ethan_urbanfurn.jar
+```
+
+Explain any command-line arguments, configuration files, or environment variables needed.
+
+Features
+
+- Users can choose their working shift
+- Users can enter their working hours
+- Users can choose their retirement plan
+- Users can receive results on their inputs and process
+- The program will save processed data for records
+
+Project Structure
+
+- `build.xml`: Apache Ant build script
+- `manifest.mf`: Manifest file for the project
+- `nbproject`: NetBeans project-specific files
+- `src`: Source code for the application
+- `test`: Test cases and test data
+
+Contributing
+
+Contributions are welcome! Please follow the steps below to contribute:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+Contact
+
+ETHAN.V - [ethan.v@curro.co.za](mailto:ethan.v@curro.co.za)
+
+Project Link: [https://github.com/ETHAN.V/ethan_urbanfurn](https://github.com/ETHAN.V/ethan_urbanfurn)
